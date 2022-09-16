@@ -1,5 +1,8 @@
 # Time-complexity-for-power
-Help me to reduce its time complexity
+// Help me to reduce its time complexity
+
+
+
 class Solution {
 public:
     double myPow(double x, int n) {
